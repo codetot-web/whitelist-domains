@@ -1,0 +1,5 @@
+codetot.com
+*.codetot.site
+*.codetot.work
+*.test
+*.local
